@@ -8,7 +8,7 @@
 			"BookLength": "625 pages",
 			"BookAuthor": "Jennifer Armentrout",
 			"TopReview": "This story is truly a gift that keeps on giving. There is a strong, fierce heroine and her swoon-worthy personal guard, which leads to some pretty smouldering romance. but love isnt the only emotion - this story is overflowing with bravery, suspense, loyalty, curiosity, vengeance, and friendship. - BretmanRock",
-			"BookImage": "blood.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/blood.jpg"
 		},
 		{
 			"BookName": "The First Days",
@@ -18,7 +18,7 @@
 			"BookLength": "331 pages",
 			"BookAuthor":"Rhiannon Frater",
 			"TopReview": "Most zombie books/movies are the same, and this is no different. The apocalypse starts and the challenge is to figh against zombies while maintaining your humanity. While this had the potential to delve into the very essence of humanity and pander whether the human race is truly awful, but the book glosses over the darker stuff. It has that happy, mushy ending that we all know would never happen. Yet you can't help but love it. After all, who doesn't love a happy ending? -- Andrea Jackson",
-			"BookImage": "firstdays.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/firstdays.jpg"
 		},
 		{
 			"BookName": "A Touch of Darkness",
@@ -28,7 +28,7 @@
 			"BookLength": "438 pages",
 			"BookAuthor": "Scarlett St. Clair",
 			"TopReview": "It's steamy without being trashy. As someone who doesn't enjoy romance, I was pleasantly surprised by the amount of character development and strong plot throughout the story. Definitely would read again. - James Charles",
-			"BookImage": "touch.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/touch.jpg"
 		},
 		{
 			"BookName": "It Ends With Us",
@@ -38,7 +38,7 @@
 			"BookLength": "385 pages",
 			"BookAuthor": "Colleen Hoover",
 			"TopReview": "HOLY WOW! It Ends With Us is one of the most powerful books of 2016 and one of the most raw, honest, inspiring, and profoundly beautiful stories I've ever read. It wasn't anything like what I expected, but it delivered so much more than I ever hoped for. This is the kind of book that I want to give to every woman and just be like! --Fuslie",
-			"BookImage": "ends.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/ends.jpg"
 		},
 		{
 			"BookName": "The Wedding Date",
@@ -48,7 +48,7 @@
 			"BookLength": "317 pages",
 			"BookAuthor": "Jasmine Guillory",
 			"TopReview": "The book features a flawed yet headstrong black female protagonist, as well as an interracial relationship. Jasmine Guillory wrote well enough to keep the book moving at a fast, entertaining pace. You might like this book if you enjoy rom-coms with little substance. --NikkiTutorials.",
-			"BookImage": "wedding.jpeg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/wedding.jpg"
 		},
 		{
 			"BookName": "Beach Read",
@@ -58,7 +58,7 @@
 			"BookLength": "361 pages",
 			"BookAuthor": "Emily Henry",
 			"TopReview": "This is my favorite romance read of the year. It came at the second place throughout the voting on goodreads choice awards. But my thoughts haven't changed! I loved it so so so much. -Seema Aunty",
-			"BookImage": "beach.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/beach.jpg"
 		},
 		{
 			"BookName": "Get A Life, Chloe Brown",
@@ -68,7 +68,7 @@
 			"BookLength": "373 pages",
 			"BookAuthor": "Talia Hibbert",
 			"TopReview": "I really liked it, like, REALLY liked it. (like like like like) and i think we all know that romance isn't usually my jam, i am always skeptical to dip my toes in the steamy waters, soooooo this was a whole Win for me (and i will possibly never shut up about it) -- Shahrukh Khan",
-			"BookImage": "get.jpeg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/get.jpg"
 		},
 		{
 			"BookName": "The Switch",
@@ -78,7 +78,7 @@
 			"BookLength": "330 pages",
 			"BookAuthor":  "Beth O'Leary",
 			"TopReview":  "What a wonderful gem of a book!!! The audio was fantastic!!! This is cute and heart-warming. The story alternates between Leena and Eileen. I enjoyed both stories equally. -- Kajol",
-			"BookImage": "switch.jpg"
+			"BookImage": "https://raw.githubusercontent.com/rresha/JSONProjectsIT315/master/switch.jpg"
 		}
 	       ]
 }
